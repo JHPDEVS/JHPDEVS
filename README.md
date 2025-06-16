@@ -1,35 +1,45 @@
+# 👋  こんにちは！
 
-#
-<!--
- <br>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jhpdevs&show_icons=true&theme=tokyonight">
-
-<br>
-
-</div>
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Game+Developer+%F0%9F%8E%AE;" alt="Typing SVG" />
 
 
-<!--
-**jhpdevs/jhpdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const developer = {
+    name: "パク・ジュヒョン",
+    location: "Tokyo, Japan 🇯🇵",
+    origin: "South Korea 🇰🇷",
+    languages: ["Korean (Native)","Japanese"],
+    currentFocus: "Game Development,Frontend Development",
+    hobbies: ["Go (囲碁)", "Mountain Climbing", "PC Building", "Tech News"],
+    motto: "Always learning, always growing! 🌱",
+    portfolio: "https://jhpdev.xyz";
+};
+```
 
-Here are some ideas to get you started:
+[Portfolio](https://jhpdev.xyz)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhpdevs&label=Profile%20views&color=0e75b6&style=flat" alt="jhpdevs" />
+  <img src="https://img.shields.io/github/followers/jhpdevs?label=Followers&style=social" alt="GitHub Badge">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## Skills
+### Github Stats
+---
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jhpdevs&show_icons=true&theme=tokyonight" alt="jhpdevs's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhpdevs&layout=compact&theme=tokyonight" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
+
+
+### Skills
+---
 ### 言語
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
